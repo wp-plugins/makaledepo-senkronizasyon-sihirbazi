@@ -1,34 +1,37 @@
-========================= MakaleDEPO Senkronizasyon Eklentisi ========================= 
+=== Plugin Name ===
 
-MakaleDepo sistemi ile siteniz arasýndaki senkronizasyonu saðlar.
+Plugin Name:       Makale Depo Senkronizasyon Sihirbazi
+Plugin URI:        http://makaledepo.com/
+Tags:              makaledepo, makaledepo senkronizasyon, makaledepo senkronizasyon sihirbazi
+Author URI:        http://makaledepo.com/
+Author:            Makale Depo
+Requires at least: 2.5.0
+Tested up to:      3.4.2
+Stable tag:        3.4.2
+Version:           1.0
 
-Sistem üzerinden satýn aldýðýnýz makaleler senkronizasyon ile sitenize aktarýlýr.
+== Description ==
 
-Satýn aldýðýnýz makalenin baþlýðý, içeriði ve anahtar kelimeleri otomatik olarak girilir ve ardýndan yazý beklemede olarak kaydedilir.
+MakaleDepo sistemi ile siteniz arasindaki senkronizasyonu saglar.
 
-Herþey oldukça basit !
+Sistem uzerinden satin aldiginiz makaleler senkronizasyon ile sitenize aktarilir.
 
-========================= AYARLAMA ========================= 
+Satin aldiginiz makalenin basligi, icerigi ve anahtar kelimeleri otomatik olarak girilir ve ardindan yazi beklemede olarak kaydedilir.
 
-http://panel.makaledepo.com/ adresinden hesabýnýza giriþ yapýn.Anasayfada bulunan "API Eriþimi" alanýna týklayýn.
+Hersey oldukca basit !
 
-Karþýnýza gelen ekranda API eriþimi aktive edin.
+== Installation ==
 
-Sistemin size verdiði Public (Genel) Anahtar ve Private (Gizli) Anahtarý not edin.
+http://panel.makaledepo.com/ adresinden hesabiniza giris yapin.Anasayfada bulunan "API Erisimi" alanina tiklayin.
 
+Karsiniza gelen ekranda API erisimini aktive edin.
 
-Ardýndan Wordpress yüklü sitenize girin ve Eklentiler bölümünden "MakaleDepo Senkronizasyon Sihirbazý" ayarlarýna týklayýn.
-
-Karþýnýza gelen ekranda ki ilgili yerleri daha önce not ettiðiniz Public (Genel) Anahtar ve Private (Gizli) Anahtar kodlarýnýz ile doldurun ve kaydedin.
-
-
-MakaleDepo Senkronizasyon Sihirbazý sitenizi hesabýnýz ile iliþkilendirecektir.
+Sistemin size verdigi Public (Genel) Anahtar ve Private (Gizli) Anahtarý not edin.
 
 
-======================= MAKALELERÝ AKTARMA =================
+Ardindan Wordpress yuklu sitenize girin ve Eklentiler bolumunden "MakaleDepo Senkronizasyon Sihirbazi" ayarlarina tiklayin.
 
-Makaleleri aktarmak için Wordpress kurulu sitenizden "MakaleDepo Senkronizasyon Sihirbazý" ayarlarýna geçiþ yapýn.
+Karsiniza gelen ekranda ki ilgili yerleri daha once not ettiginiz Public (Genel) Anahtar ve Private (Gizli) Anahtar kodlariniz ile doldurun ve kaydedin.
 
-Eðer Public (Genel) Anahtar ve Private (Gizli) Anahtar kodlarýnýz doðru olarak girildiyse "Senkronize Et" butonu gözükecektir.
 
-Bu butonu kullanarak satýn aldýðýnýz makaleleri sitenize kolaylýkla aktarabilirsiniz.
+MakaleDepo Senkronizasyon Sihirbazi sitenizi hesabiniz ile iliskilendirecektir.
