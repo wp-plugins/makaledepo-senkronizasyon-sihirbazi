@@ -1,6 +1,6 @@
-=== Plugin Name ===
+=== Makale Depo Senkronizasyon Sihirbazi ===
 
-Plugin Name:       Makale Depo Senkronizasyon Sihirbazi
+Plugin Name:       Makale Depo Senkronizasyon Sihirbazi V1.0
 Plugin URI:        http://makaledepo.com/
 Tags:              makaledepo, makaledepo senkronizasyon, makaledepo senkronizasyon sihirbazi
 Author URI:        http://makaledepo.com/
