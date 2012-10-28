@@ -1,4 +1,4 @@
-========================= TANITIM ========================= 
+========================= MakaleDEPO Senkronizasyon Eklentisi ========================= 
 
 MakaleDepo sistemi ile siteniz arasýndaki senkronizasyonu saðlar.
 
